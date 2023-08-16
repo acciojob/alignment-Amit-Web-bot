@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+td{
+	padding:1px;
+	border:solid 1px;
+	border-color:rgb(0,0,0)
+}
 #table-1,#t11,#t12,#t13{
 	border:1px;
 	border:solid;
@@ -23,10 +28,14 @@
 	border:1px;
 	border: solid;
 	padding:1px;
+	spacing:1px;
 }
 .top{
 	background-color:green;
 }
 .bottom{
 	background-color:blue;
+}
+#t-image{
+	text-align: center;
 }
